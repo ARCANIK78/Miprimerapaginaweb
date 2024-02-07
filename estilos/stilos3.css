@@ -1,0 +1,40 @@
+menu{
+    color: white;
+    height: 50px;
+    background-color:rgb(98, 98, 218);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    text-overflow: ellipsis;
+    height: 35px;
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    text-align: center;
+    text-decoration:underline;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p1{
+    color: white;
+}
+tr,th{
+    height: 100px;
+    width: 500px;
+    text-align: left;
+    color: white;
+    border-collapse: collapse;
+    border: 8px solid black;
+}
+b{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
